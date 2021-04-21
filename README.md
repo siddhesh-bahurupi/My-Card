@@ -1,7 +1,8 @@
 # my_card
 
-A new Flutter application.
+Just a contact and about single page app.
 
-## Getting Started
+## App Screenshot
 
-This project is a starting point for a Flutter application.
+<img src="screenshots/app_screenshot.png" width=256 />
+
